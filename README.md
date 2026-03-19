@@ -39,4 +39,5 @@ Como parte del desafío de la última clase de la inmersión, este proyecto va u
 
 ## 👨‍💻 Autor
 **Jesus Antonio Díaz**
+
 *Proyecto desarrollado para la Inmersión IA Dev*
