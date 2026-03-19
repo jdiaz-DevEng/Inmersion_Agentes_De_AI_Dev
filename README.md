@@ -1,7 +1,7 @@
 # 🤖 Agente Inteligente "Carrarurquía" (RAG + Web Search)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-https://colab.research.google.com/drive/1K1BSm3vDoq9SAO0JTijGigdCc1XRQ5ml?usp=sharing
+(https://colab.research.google.com/drive/1K1BSm3vDoq9SAO0JTijGigdCc1XRQ5ml?usp=sharing)
 
 ## 📝 Descripción del Proyecto
 Este proyecto implementa un **Agente de IA con arquitectura de enrutamiento dinámico** utilizando LangGraph. El agente actúa como un asistente experto para la empresa "Carrarurquía", capaz de tomar decisiones algorítmicas en tiempo real sobre qué fuente de datos consultar para responder a las preguntas del usuario.
